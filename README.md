@@ -43,18 +43,3 @@
     </footer>
     </body>
     </html>
-           <p><table style="border:20px solid black;text-align:center;background-color:white;font-size:20px">
-               <tr>
-                   <td style="border:1px solid black">Внешний вид</td>
-                   </tr>
-                   <td style="border:1px solid black">Гладкошёрстный</td>
-                   <tr>
-                   </tr>
-                       <td style="border:1px solid black">Жёсткошёрстный</td>
-                       </table></p>
-    <p style="text-align:center"><img src="https://zoocomplex.com.ua/image/catalog/blog/sobaka-porodu-jagdteryer-1.jpg" width="250px" height="200px"/><img src="https://petsi.net/images/dogbreed/yagdteryer.jpg" width="250px" height="200px"/></p>
-    </main>
-    <footer style="background-color:black"><p><font color="white"style="font-size:20px"/>Всем спасибо за внимание, автор сайта - Саитов Тимур. Приходите на занятия дрессеровок собак по адресу : Проспект Мира 53. Мобильный телефон : 123-456-789</p>
-    </footer>
-    </body>
-    </html>
