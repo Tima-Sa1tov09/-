@@ -39,7 +39,7 @@
                        </table></p>
     <p style="text-align:center"><img src="https://zoocomplex.com.ua/image/catalog/blog/sobaka-porodu-jagdteryer-1.jpg" width="250px" height="200px"/><img src="https://petsi.net/images/dogbreed/yagdteryer.jpg" width="250px" height="200px"/></p>
     </main>
-    <footer style="background-color:black"><p><font color="white"style="font-size:20px"/>Всем спасибо за внимание, автор сайта - Саитов Тимур. Приходите на занятия дрессеровок собак по адресу : Проспект Мира 53. Мобильный телефон : 123-456-789</p>
+    <footer style="background-color:black"><p><font color="white" style="font-size:20px"/>Всем спасибо за внимание, автор сайта - Саитов Тимур. Приходите на занятия дрессеровок собак по адресу : Проспект Мира 53. Мобильный телефон : 123-456-789</p>
     </footer>
     </body>
     </html>
