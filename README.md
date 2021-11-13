@@ -7,7 +7,7 @@
         <p><a href="#dog1" style="color:#750000">Информация о породе</a></p>
     <h2 style="color:white; text-align:center;font-size:50px">Кратко о породе собак «Ягдтерьер»</h2>
     <h2 style="color:white;text-align:center;font-size:40px">Немецкий охотник</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Grupp_3%2C_TYSK_JAKTTERRIER%2C_Stollfors_Larionov_%2823942381219%29.jpg/1200px-Grupp_3%2C_TYSK_JAKTTERRIER%2C_Stollfors_Larionov_%2823942381219%29.jpg"height="220px"width="320px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Grupp_3%2C_TYSK_JAKTTERRIER%2C_Stollfors_Larionov_%2823942381219%29.jpg/1200px-Grupp_3%2C_TYSK_JAKTTERRIER%2C_Stollfors_Larionov_%2823942381219%29.jpg"height="220px"width="320px"/>
     </header>
     <main style="background-color:#b39c6e;font-size:20px">
         <p id="dog1" style="font-size:18px"><b style="font-size:20px">Неме́цкий охо́тничий терье́р (ягдтерьер)—</b> <i>порода универсальных охотничьих собак, терьер. Ягдтерьеры целенаправленно выведены в Германии в 1930—1940-е годы, в послевоенный период работа над породой продолжалась независимо и разными методами в ФРГ и ГДР. Создатели породы ставили целью получить разностороннюю охотничью собаку выдающихся качеств, способную работать на земле, в норах и в воде, непритязательную и простую в уходе. Ягдтерьеры отличаются исключительно развитым охотничьим инстинктом и злобой к зверю, в среднем по породе рабочие показатели немецких охотничьих терьеров значительно выше, чем у других терьеров. Используются в основном в норной охоте, но также и в охоте на пернатую дичь, кабана, зайца. Успешно справляются с функциями сторожевых собак.</i></p>
