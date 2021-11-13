@@ -1,9 +1,8 @@
-# 
 <html>
     <title>Порода Ягдтерьеp</title>
     <body style="background-color:#e6a384;font-family:sans-serif">
     <header style="background-color:#d69c6e;text-align:center">
-        <img src="https://us.123rf.com/450wm/lyusya/lyusya1505/lyusya150500009/39640935-yagdterer-vector-illustration-of-a-character-dog.jpg?ver=6"height="70px"width="70px"/>
+        <img src="https://us.123rf.com/450wm/lyusya/lyusya1505/lyusya150500009/39640935-yagdterer-vector-illustration-of-a-character-dog.jpg?ver=6" height="70px" width="70px"/>
         <p><a href="#dog" style="color:#750000;">Характеристика породы</a></p>
         <p><a href="#dog1" style="color:#750000">Информация о породе</a></p>
     <h2 style="color:white; text-align:center;font-size:50px">Кратко о породе собак «Ягдтерьер»</h2>
